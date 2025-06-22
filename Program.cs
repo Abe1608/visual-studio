@@ -18,7 +18,7 @@ Console.WriteLine("¡Por favor! ingrese su nombre para identificarlo:"); // Auth
 nombreAlumno = Console.ReadLine(); // Se solicita la insercion de nombre al usuario y lo almacena en la variable nombre que habiamos inicializado Author: 17-2940-2020, Abelardo Amaya
 Console.WriteLine(" Ingresa tu edad en numeros enteros:"); // Author: 17 - 2940 - 2020, Abelardo Amaya
 edadAlumno = int.Parse(Console.ReadLine()); //Author: 17-2940-2020, Abelardo Amaya
-Console.WriteLine("Ingrese la materia que esta cursando:") //Author: 17-2940-2020, Abelardo Amaya
+Console.WriteLine("Ingrese la materia que esta cursando:"); //Author: 17-2940-2020, Abelardo Amaya
 asignatura = Console.ReadLine(); // Se solicita insercion de la asignatura del usuario Author: 17-2940-2020, Abelardo Amaya
 Console.WriteLine("Ahora cuentenos ¿Como ha sido su experiencia desde que ingreso a la Universidad?"); //Author: 17-2940-2020, Abelardo Amaya
 comentario = Console.ReadLine(); // Se solicita insercion de una breve explicación Author: 17-2940-2020, Abelardo Amaya
